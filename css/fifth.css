@@ -29,6 +29,7 @@ body {
 	padding:30px;
 }
 #playground {
+	pointer-event:none;
   position:relative;
   margin:auto;
   padding:10px;
