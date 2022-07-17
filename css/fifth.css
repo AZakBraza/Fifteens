@@ -63,9 +63,9 @@ body {
   align-items:center;
   justify-content:center;
   }
-.pos:hover {
+/*.pos:hover {
   background-color:grey;
-  }
+  }*/
 .modal {
     display: none;
     background-color: #f5f5f5af;/*hsla(111,98%,50%,0.5);/*#337AB7;*/
